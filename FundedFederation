@@ -1,0 +1,4 @@
+npm create vite@latest my-propfirm-app --template react
+cd my-propfirm-app
+npm install
+npm run dev
